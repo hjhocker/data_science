@@ -8,8 +8,6 @@ clf = clf.fit(features, labels)
 
 print clf.predict([[150,0]])
 
-
-
 from sklearn.datasets import load_iris
 import numpy as np
 
